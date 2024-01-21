@@ -47,9 +47,9 @@ const Dashboard = () => {
 
     return (
       <div>
-        <h1>Elapsed Time: {time} seconds</h1>
-        <h1>You have traveled {distance} miles</h1>
-        <h1>You have an altitude of {height} miles</h1>
+        <h2>Elapsed Time: {time} seconds</h2>
+        <h2>You have traveled {distance} miles</h2>
+        <h2>You have an altitude of {height} miles</h2>
         <br></br>
         <h2>You are travelling at {speed} mph with an angle of {degree} degrees</h2>
 
