@@ -10,7 +10,7 @@ const Dashboard = () => {
 
     const [time, setTime] = useState(0);
 
-    const seconds = 2;
+    const seconds = 1;
 
 
 
